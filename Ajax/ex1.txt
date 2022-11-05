@@ -1,0 +1,11 @@
+[{
+    "nome":"Luiz Otavio", 
+    "idade": 15
+},{
+    "nome":"Gabrielly Vieria", 
+    "idade": 23
+},{
+    "nome":"Maria do Rosario",
+    "idade":65
+}]
+
